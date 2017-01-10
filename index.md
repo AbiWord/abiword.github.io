@@ -1,3 +1,7 @@
 ## Welcome to AbiWord
 
-This is currently a placeholder.
+Please see [AbiWord main website](http://www.abisource.com/).
+
+### Enchant
+
+A library for spellchecking. See [enchant](/enchant)
